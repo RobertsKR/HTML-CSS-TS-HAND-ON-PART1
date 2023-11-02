@@ -1,4 +1,4 @@
-# HTML, CSS, TypeScript 
+# HTML, CSS, TypeScript Part 1
 To start coding open your terminal and write
 ```
 npm i
