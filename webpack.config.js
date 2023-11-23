@@ -21,7 +21,7 @@ const exerciseEntries = exerciseFolders.reduce((entries, folder) => {
 
 module.exports = {
   entry: {
-    main: ["./src/scripts.ts", "./src/styles.scss"],
+    main: ["./src/scripts.ts", "./src/style.scss"],
     ...exerciseEntries,
   },
   mode: "development",
